@@ -1,7 +1,6 @@
 ## 🖼️ Preview
 <img src="Wallpapers/Animal-Collective.jpg">
+<img src="Wallpapers/Blame-1.jpg">
+<img src="Wallpapers/Blame-2.jpg">
 <img src="Wallpapers/Electric-Wizard.png">
-<img src="Wallpapers/Mononoke.jpg">
-<img src="Wallpapers/Nayeon.jpg">
-<img src="Wallpapers/Pilot.jpg">
-<img src="Wallpapers/Stayc.jpg">
+<img src="Wallpapers/Steins-Gate.jpg">
